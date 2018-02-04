@@ -1,0 +1,20 @@
+{
+  "name": "twitter-greet-followers-bot",
+  "version": "0.0.0",
+  "description": "A simple twitter bot to send your new followers a nice greeting message.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justadudewhohacks/twitter-greet-followers-bot"
+  },
+  "bugs": {
+    "url": "https://github.com/justadudewhohacks/twitter-greet-followers-bot/issues"
+  },
+  "homepage": "https://github.com/justadudewhohacks/twitter-greet-followers-bot#readme",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["twitter", "greet", "followers", "bot"],
+  "author": "justadudewhohacks",
+  "license": "MIT"
+}

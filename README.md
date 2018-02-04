@@ -1,0 +1,1 @@
+*A simple twitter bot to send your new followers a nice greeting message.*
