@@ -4,9 +4,9 @@
 
 ## Requirements
 
-### Credentials for the twitter-api
+### Credentials for the twitter api
 
-Create a twitter app for your twitter account at apps.twitter.com and change to the tab *Keys and Access Tokens*. If you do not have an access token yet click *Create my access token*. Now you should have all your credentials:
+Create a <a href="https://apps.twitter.com"><b> twitter app </b></a> for your twitter account and switch to the tab *Keys and Access Tokens*. If you do not have an access token yet click *Create my access token*. Now you should have all your credentials:
 
 ![twitter-credentials](https://user-images.githubusercontent.com/31125521/35782141-f738728a-09f3-11e8-804c-00c8dec197c3.png)
 
