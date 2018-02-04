@@ -1,6 +1,6 @@
 *A simple twitter bot to send your new followers a nice greeting message.*
 
-![demo](https://user-images.githubusercontent.com/31125521/35782056-b76b2e28-09f2-11e8-958f-155f540f8952.gif)
+![demo](https://user-images.githubusercontent.com/31125521/35782557-f3dbd004-09f9-11e8-9fab-eaab504a7a1a.gif)
 
 ## Requirements
 
