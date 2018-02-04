@@ -14,7 +14,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["twitter", "greet", "followers", "bot"],
+  "keywords": [
+    "twitter",
+    "greet",
+    "followers",
+    "bot"
+  ],
   "author": "justadudewhohacks",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
 }
