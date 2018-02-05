@@ -52,8 +52,9 @@ git push heroku master
 heroku ps:scale web=0 worker=1
 ```
 
-7. Testing your bot
-If everything worked your bot should be running. You can test your bot by following: <a href="https://twitter.com/justapoliteguy"><b> justapoliteguy </b></a>, who will follow you back. Check if your greeting message was sent. You can retry as many times as you wish by unfollowing and following again.
+7. Testing your bot:
+
+If everything worked your bot should be running. You can test your bot by following: <a href="https://twitter.com/justapoliteguy"><b>justapoliteguy</b></a>, who will follow you back. Check if your greeting message was sent. You can retry as many times as you wish by unfollowing and following again.
 
 ## Trouble Shooting
 
