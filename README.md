@@ -51,3 +51,19 @@ git push heroku master
 ``` bash
 heroku ps:scale web=0 worker=1
 ```
+
+7. Testing your bot
+If everything worked your bot should be running. You can test your bot by following: <a href="https://twitter.com/justapoliteguy"><b> justapoliteguy </b></a>, who will follow you back. Check if your greeting message was sent. You can retry as many times as you wish by unfollowing and following again.
+
+## Trouble Shooting
+
+In case your bot does not seem to work, you can open the heroku dashboard of your app and navigate to *View logs* by clicking the *More* button in the upper right corner:
+
+![heroku-log](https://user-images.githubusercontent.com/31125521/35809370-a91d817c-0a88-11e8-9fef-312f1c648611.png)
+
+If you see the output *credentials ok — running bot*, the bot should be up watching for new followers. As the log only displays a few lines, you can also dump the log to a text file:
+``` bash
+heroku logs -a mytwitterbot1234 >> logs.txt
+```
+
+Another thing you might want to check is, whether your credentials are set up correctly. Navigate to the *Settings* tab and click *Reveal Config Vars*. Check and edit your credentials here.
